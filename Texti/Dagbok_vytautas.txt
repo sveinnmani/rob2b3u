@@ -1,0 +1,11 @@
+Dagbók - Vytautas Sipavicius
+
+09/01/2018
+Kynntist námsefni áfangans og fengum rasperry pi tölvuna í hendurnar og fengum led ljós
+til að tengjast henni.
+12/01/2018
+Tengdum Sonar sensor og servo við rasberry pi og fengum allt til að virka saman.
+16/01/2018
+Fengum upplýsingar um verkefni áfangans og ákváðum hvað við ætlum að gera.
+19/01/2018
+Bjó til verkefnalýsingu, skýringarmynd af verkefninu og sauðakóða fyrir grunnverkefnið.
