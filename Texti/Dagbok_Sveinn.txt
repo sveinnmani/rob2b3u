@@ -1,0 +1,11 @@
+9.1.18 og 12.1.18
+Fengum Raspberry pi í þessari viku og leystum fyrsta æfingaverkefnið þar sem við tendum 
+led peru, servo og ultrasonic sensor við RPi með breadboard. 
+
+16.1.18 og 19.1.18
+Við skrifuðum niður nokkrar hugmyndir fyrir verkefnið. Við byrjuðum á verkefnalýsingu og gerðum sauðakóðann
+þegar við vorum búnnir að velja verkefni. Settum upp TexWorks svo við þurfum ekki að pæla í því seinna.
+
+23.1.18 og 26.1.18
+Við völdum parta fyrir vélmennið, ultrasonic sensor, tvo mótora frá Vex, byggingarefni frá Vex. Byrjuðum einnig að setja saman vélmennið 
+sjálft. Reyndum að átta okkur á því hvernigvið getum fengið gildi frá shaft encoder svo við getum notað hann fyrir vélmennið.
