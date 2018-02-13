@@ -1,7 +1,14 @@
-@online{WinNT,
+@online{ablebits,
   author = {Svetlana Cheusheva},
   title = {How to make a Gantt chart in excel 2010, 2013 and excel 2016},
   year = 2017,
   url = {https://www.ablebits.com/office-addins-blog/2014/05/23/make-gantt-chart-excel/},
   urldate = {2018-02-09}
+}
+@online{The Pi Hut,
+  author = {The pi hut},
+  title = {How to install / use the Raspberry Pi Camera},
+  year = 2014,
+  url = {https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera},
+  urldate = {2018-02-13}
 }
