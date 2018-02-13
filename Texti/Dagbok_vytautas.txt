@@ -1,11 +1,29 @@
-Dagbók - Vytautas Sipavicius
+DagbÃ³k - Vytautas Sipavicius
 
 09/01/2018
-Kynntist námsefni áfangans og fengum rasperry pi tölvuna í hendurnar og fengum led ljós
-til ağ tengjast henni.
+Kynntist nÃ¡msefni Ã¡fangans og fengum rasperry pi tÃ¶lvuna Ã­ hendurnar og fengum led ljÃ³s
+til aÃ° tengjast henni.
+
 12/01/2018
-Tengdum Sonar sensor og servo viğ rasberry pi og fengum allt til ağ virka saman.
+Tengdum Sonar sensor og servo viÃ° rasberry pi og fengum allt til aÃ° virka saman.
+
 16/01/2018
-Fengum upplısingar um verkefni áfangans og ákváğum hvağ viğ ætlum ağ gera.
+Fengum upplÃ½singar um verkefni Ã¡fangans og Ã¡kvÃ¡Ã°um hvaÃ° viÃ° Ã¦tlum aÃ° gera.
+
 19/01/2018
-Bjó til verkefnalısingu, skıringarmynd af verkefninu og sauğakóğa fyrir grunnverkefniğ.
+BjÃ³ til verkefnalÃ½singu, skÃ½ringarmynd af verkefninu og sauÃ°akÃ³Ã°a fyrir grunnverkefniÃ°.
+
+23/01/2018
+ByrjuÃ°um aÃ° plana og byggja skelina Ã¡ vÃ©lmenninu
+
+26/01/2018
+KlÃ¡raÃ°i fulla verkefnalÃ½singu
+
+06/02/2018
+HÃ©ldum Ã¡fram aÃ° byggja skelina
+
+09/02/2018
+KlÃ¡ruÃ°um aÃ° byggja skelina og Ã©g fÃ³r Ã­ Ã¾aÃ° aÃ° klÃ¡ra gantt ritiÃ°
+
+13/02/2018
+KlÃ¡raÃ°i gantt ritiÃ°
