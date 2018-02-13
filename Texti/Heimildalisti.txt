@@ -12,3 +12,10 @@
   url = {https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera},
   urldate = {2018-02-13}
 }
+@online{Raspberry Pi
+  author = {hrvoje},
+  title = {Ultimate rotary encoder switch decoder},
+  year = 2016,
+  url = {https://www.raspberrypi.org/forums/viewtopic.php?t=140250},
+  urldate = {2018-02-??}
+}
