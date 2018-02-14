@@ -9,3 +9,14 @@ Við skrifuðum niður nokkrar hugmyndir fyrir verkefnið. Við byrjuðum á ver
 23.1.18 og 26.1.18
 Við völdum parta fyrir vélmennið, ultrasonic sensor, tvo mótora frá Vex, byggingarefni frá Vex. Byrjuðum einnig að setja saman vélmennið 
 sjálft. Reyndum að átta okkur á því hvernigvið getum fengið gildi frá shaft encoder svo við getum notað hann fyrir vélmennið.
+
+30.1.18 og 2.2.18
+Náði að koma shaft encoder í lag. Vorum líka að vinna í því að setja vélmennið saman.
+
+6.2.18 og 9.2.18
+Í þessari viku vorum við að mest að klára samsetninguna á vélmenninu. Byrjaði á því að keyra mótorana. 
+
+13.2.18
+Kláruðum grunnsamsetninguna á vélmenninu. Náði að keyra báða mótorana. Við erum byrjaðir á því að bæta myndavél við vélmennið.
+
+
