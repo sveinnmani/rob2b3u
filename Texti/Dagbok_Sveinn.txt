@@ -16,7 +16,10 @@ Náði að koma shaft encoder í lag. Vorum líka að vinna í því að setja v
 6.2.18 og 9.2.18
 Í þessari viku vorum við að mest að klára samsetninguna á vélmenninu. Byrjaði á því að keyra mótorana. 
 
-13.2.18
-Kláruðum grunnsamsetninguna á vélmenninu. Náði að keyra báða mótorana. Við erum byrjaðir á því að bæta myndavél við vélmennið.
+13.2.18 og 16.2.18
+Kláruðum grunnsamsetninguna á vélmenninu. Náði að keyra báða mótorana. Við erum byrjaðir á því að bæta myndavél við vélmennið. Reyndum ad leysa vesenid med raspberry pi-inn thar sem hann var ad ofhitna.
+
+20.2.18
+Setti upp webserver a pi-inn til thess ad geta stjornad honum a netinu. Nota Apache fyrir that og aetla ad nota php med thvi.
 
 
