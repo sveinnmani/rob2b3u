@@ -19,7 +19,7 @@ Náði að koma shaft encoder í lag. Vorum líka að vinna í því að setja v
 13.2.18 og 16.2.18
 Kláruðum grunnsamsetninguna á vélmenninu. Náði að keyra báða mótorana. Við erum byrjaðir á því að bæta myndavél við vélmennið. Reyndum ad leysa vesenið med raspberry pi-inn þar sem hann var að ofhitna við ekkert álag.
 
-20.2.18
-Setti upp webserver á pi-inn til þess að geta stjórnað honum gegnum netið. Nota Apache fyrir það og ætla að nota php með því.
+20.2.18 og 23.2.18
+Setti upp webserver á pi-inn til þess að geta stjórnað honum gegnum netið. Nota Apache fyrir það og ætla að nota php með því. Er buinn ad atti mig a thvi hvernig madur stjornar gpio pinnunum af piinum gegnum php vefsidu.
 
 
