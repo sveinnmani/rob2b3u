@@ -22,4 +22,11 @@ Kláruðum grunnsamsetninguna á vélmenninu. Náði að keyra báða mótorana.
 20.2.18 og 23.2.18
 Setti upp webserver á pi-inn til þess að geta stjórnað honum gegnum netið. Nota Apache fyrir það og ætla að nota php með því. Er buinn ad atti mig a thvi hvernig madur stjornar gpio pinnunum af piinum gegnum php vefsidu.
 
+27.2.18 og 2.3.18
+Bættum við bita fremst á vélemennið til að festa myndavélina og sonar sensorinn.
 
+6.3.18 og 9.3.18
+Byrjuðum á því að tengja saman alla partana við breadboard og reyndum að fá vélmennið til þess að keyra.
+
+13.3.18 og 16.3.18
+Lærði hvernig h-bridge virkar. Reyndi að fá encoderinn til þess að virka, þarf að gera það í næstu viku.
