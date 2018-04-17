@@ -30,3 +30,6 @@ Byrjuðum á því að tengja saman alla partana við breadboard og reyndum að 
 
 13.3.18 og 16.3.18
 Lærði hvernig h-bridge virkar. Reyndi að fá encoderinn til þess að virka, þarf að gera það í næstu viku.
+
+10.4.18 og 13.4.18
+Reyna að ná stýringu á vélmenninu gegnum vefinn okkar. Einnig að finna útúr því hvernig hægt er að keyra python skrár gegnum vefinn.
