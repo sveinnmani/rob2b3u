@@ -30,3 +30,26 @@ Kláraði gantt ritið og við tengdum og fengum myndavélina til að virka
 
 02/03/2018
 Löguðum til tölvuna þannig að hún virki og kláruðum að byggja vélmennið
+
+06/03/2018
+Skoðaði möguleika fyrir stream og ákvað að nota motion
+
+09/03/2018
+Setti upp streamið þannig við fáum mynd
+
+06/04/2018
+Lagaði til streamið þannig það keyrir betur
+
+10/04/2018
+Setti streamið upp þannig það keyri við startup og tengist rétt við vefsíðuna
+
+13/04/2018
+Skoðuðum hvernig við fáum takkana á vefsíðunni til að virka og löguðum til kóðann til að láta vélmennið keyra
+
+20/04/2018
+Breytti yfir á python webserver backend client
+
+24/04/2018
+Lagaði til serverinn og setti allt upp þannig að takkanir virki almennilega og að réttu hlutanir ræsists við bootup
+
+
