@@ -34,5 +34,8 @@ Lærði hvernig h-bridge virkar. Reyndi að fá encoderinn til þess að virka, 
 10.4.18 og 13.4.18
 Reyna að ná stýringu á vélmenninu gegnum vefinn okkar. Einnig að finna útúr því hvernig hægt er að keyra python skrár gegnum vefinn.
 
+24.4.18
+Er farinn ad vinna i kodanum sem laetur velmennid keyra sjalfkrafa thegar ytt er a takka a sidunni.
+
 17.4.18
 Fékk php skjal til að keyra shell command í gegnum terminal en það virkar ekki gegnum vefinn okkar.
