@@ -39,3 +39,9 @@ Er farinn ad vinna i kodanum sem laetur velmennid keyra sjalfkrafa thegar ytt er
 
 17.4.18
 Fékk php skjal til að keyra shell command í gegnum terminal en það virkar ekki gegnum vefinn okkar.
+
+4.5.18
+Var að vinna í kóðanum svo vélmennið gæti keyrt áfram án þess að keyra á veggi.
+
+8.5.18 og 11.5.18
+Pi tölvan bilaði. Drap alltaf á sér eftir smá tíma. Aftengdum vélmennið of fengum nýjann. Erum að klára skýrsluna. 
