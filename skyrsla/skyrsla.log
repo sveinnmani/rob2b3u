@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.19)  13 MAR 2018 08:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.19)  11 MAY 2018 11:40
 entering extended mode
 **./skyrsla.tex
 (skyrsla.tex
@@ -591,24 +591,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 19.
-<img/tskoli.jpg, id=1, 185.19188pt x 44.41594pt>
-File: img/tskoli.jpg Graphic file (type jpg)
-<use img/tskoli.jpg>
-Package pdftex.def Info: img/tskoli.jpg  used on input line 22. on input line 2
+<img/tskoli.png, id=1, 276.28218pt x 67.75313pt>
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 22. on input line 2
 2.
-Package pdftex.def Info: Requested size: 120.37328pt x 28.87pt on input line 22
-.
-<img/rob2b3u_img.jpg, id=2, 180.675pt x 180.675pt>
-File: img/rob2b3u_img.jpg Graphic file (type jpg)
-<use img/rob2b3u_img.jpg>
-Package pdftex.def Info: img/rob2b3u_img.jpg  used on input line 23. on input l
+Package pdftex.def Info: Requested size: 179.58128pt x 44.03899pt on input line
+ 22.
+<img/rob2b3u_img.png, id=3, 135.50626pt x 135.50626pt>
+File: img/rob2b3u_img.png Graphic file (type png)
+<use img/rob2b3u_img.png>
+Package pdftex.def Info: img/rob2b3u_img.png  used on input line 23. on input l
 ine 23.
-Package pdftex.def Info: Requested size: 180.67455pt x 180.67455pt on input lin
-e 23.
+Package pdftex.def Info: Requested size: 135.5059pt x 135.5059pt on input line 
+23.
  [1
 
 {C:/Users/2512982709/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/
-tskoli.jpg> <./img/rob2b3u_img.jpg>] (skyrsla.toc
+tskoli.png> <./img/rob2b3u_img.png>] (skyrsla.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -617,120 +617,141 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `skyrsla.toc'.
 
-File: img/tskoli.jpg Graphic file (type jpg)
-<use img/tskoli.jpg>
-Package pdftex.def Info: img/tskoli.jpg  used on input line 27. on input line 2
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 27. on input line 2
 7.
-Package pdftex.def Info: Requested size: 85.35826pt x 20.47223pt on input line 
-27.
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 2
+7.
  [2] (intro.tex
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+<img/husmynd.jpg, id=18, 752.8125pt x 501.875pt>
+File: img/husmynd.jpg Graphic file (type jpg)
+<use img/husmynd.jpg>
+Package pdftex.def Info: img/husmynd.jpg  used on input line 14. on input line 
+14.
+Package pdftex.def Info: Requested size: 301.11966pt x 200.74643pt on input lin
+e 14.
 ) (hardware.tex
-File: img/tskoli.jpg Graphic file (type jpg)
-<use img/tskoli.jpg>
-Package pdftex.def Info: img/tskoli.jpg  used on input line 4. on input line 4.
-
-Package pdftex.def Info: Requested size: 85.35826pt x 20.47223pt on input line 
-4.
- [3]) (timeplan.tex
-<img/timaaetlun.png, id=18, 498.663pt x 223.43475pt>
-File: img/timaaetlun.png Graphic file (type png)
-<use img/timaaetlun.png>
-Package pdftex.def Info: img/timaaetlun.png  used on input line 4. on input lin
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 17. on input line 1
+7.
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 1
+7.
+ [3 <./img/husmynd.jpg>]) (timeplan.tex
+<img/gant.png, id=22, 760.34062pt x 422.32782pt>
+File: img/gant.png Graphic file (type png)
+<use img/gant.png>
+Package pdftex.def Info: img/gant.png  used on input line 4. on input line 4.
+Package pdftex.def Info: Requested size: 228.10394pt x 126.69931pt on input lin
 e 4.
-Package pdftex.def Info: Requested size: 349.0617pt x 156.40326pt on input line
- 4.
-
-Overfull \hbox (4.0617pt too wide) in paragraph at lines 4--5
-[][] 
- []
-
 )
-File: img/tskoli.jpg Graphic file (type jpg)
-<use img/tskoli.jpg>
-Package pdftex.def Info: img/tskoli.jpg  used on input line 31. on input line 3
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 31. on input line 3
 1.
-Package pdftex.def Info: Requested size: 85.35826pt x 20.47223pt on input line 
-31.
- [4 <./img/timaaetlun.png>] (sudo.tex
-<img/Saudakodi.jpg, id=22, 622.325pt x 619.31375pt>
-File: img/Saudakodi.jpg Graphic file (type jpg)
-<use img/Saudakodi.jpg>
-Package pdftex.def Info: img/Saudakodi.jpg  used on input line 3. on input line
- 3.
-Package pdftex.def Info: Requested size: 186.69893pt x 185.79555pt on input lin
-e 3.
-) (testing.tex) (conclution.tex)
-File: img/tskoli.jpg Graphic file (type jpg)
-<use img/tskoli.jpg>
-Package pdftex.def Info: img/tskoli.jpg  used on input line 35. on input line 3
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 3
+1.
+ [4 <./img/gant.png>]
+(sudo.tex
+<img/flowchart.png, id=27, 332.24126pt x 294.09875pt>
+File: img/flowchart.png Graphic file (type png)
+<use img/flowchart.png>
+Package pdftex.def Info: img/flowchart.png  used on input line 11. on input lin
+e 11.
+Package pdftex.def Info: Requested size: 99.67314pt x 88.2303pt on input line 1
+1.
+) (testing.tex
+
+LaTeX Warning: Citation `pi2015raspberry' on page 5 undefined on input line 2.
+
+) (conclution.tex)
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 35. on input line 3
 5.
-Package pdftex.def Info: Requested size: 85.35826pt x 20.47223pt on input line 
-35.
- [5 <./img/Saudakodi.jpg>] (references.tex) (skyrsla.bbl)
-File: img/tskoli.jpg Graphic file (type jpg)
-<use img/tskoli.jpg>
-Package pdftex.def Info: img/tskoli.jpg  used on input line 39. on input line 3
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 3
+5.
+ [5 <./img/flowchart.png>] (references.tex) (skyrsla.bbl)
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 39. on input line 3
 9.
-Package pdftex.def Info: Requested size: 85.35826pt x 20.47223pt on input line 
-39.
- [6] (appendix.tex (dagbok.txt)
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 3
+9.
+
+[6] (appendix.tex (dagbok.txt)
 ("C:\Users\2512982709\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstl
 ang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-) (../arduinodaemi/DHTtester_get_php_sql/DHTtester_get_php_sql.ino
-Overfull \hbox (74.90067pt too wide) in paragraph at lines 1--2
-[][][][][][][][][][][][][][][][][][][][][] 
- []
-
-File: img/tskoli.jpg Graphic file (type jpg)
-<use img/tskoli.jpg>
-Package pdftex.def Info: img/tskoli.jpg  used on input line 37. on input line 3
+) (code/main.py
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 37. on input line 3
 7.
-Package pdftex.def Info: Requested size: 85.35826pt x 20.47223pt on input line 
-37.
-[7]
-Overfull \hbox (164.87938pt too wide) in paragraph at lines 48--50
-[][][][][][][][][][][][][][][][][] 
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 3
+7.
+ [7]
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 82. on input line 8
+2.
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 8
+2.
+ [8]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 110.
+
+
+("C:\Users\2512982709\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.f
+d"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 110.
+
+Overfull \hbox (68.90208pt too wide) in paragraph at lines 119--120
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-)
-File: img/tskoli.jpg Graphic file (type jpg)
-<use img/tskoli.jpg>
-Package pdftex.def Info: img/tskoli.jpg  used on input line 10. on input line 1
-0.
-Package pdftex.def Info: Requested size: 85.35826pt x 20.47223pt on input line 
-10.
- [8])
-File: img/tskoli.jpg Graphic file (type jpg)
-<use img/tskoli.jpg>
-Package pdftex.def Info: img/tskoli.jpg  used on input line 41. on input line 4
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 128. on input line 
+128.
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 1
+28.
+[9]))
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 41. on input line 4
 1.
-Package pdftex.def Info: Requested size: 85.35826pt x 20.47223pt on input line 
-41.
- [9] (skyrsla.aux) ) 
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 4
+1.
+ [10] (skyrsla.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5721 strings out of 493312
- 74816 string characters out of 3127652
- 283314 words of memory out of 3000000
- 9162 multiletter control sequences out of 15000+200000
+ 5292 strings out of 493312
+ 69442 string characters out of 3127652
+ 276049 words of memory out of 3000000
+ 8729 multiletter control sequences out of 15000+200000
  12452 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,43p,1289b,2386s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\2512982709\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\2512982709\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\251
-2982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
-> <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
-600\ecrm1000.pk> <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk>
-Output written on skyrsla.pdf (9 pages, 168029 bytes).
+ 41i,18n,43p,858b,1971s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dp
+i600\ecbx1200.pk> <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\2512982709\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\251298
+2709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <
+C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecrm1200.pk> <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
+appen\ec\dpi600\ecrm1728.pk><C:/Users/2512982709/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on skyrsla.pdf (10 pages, 469390 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
+ 350 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
