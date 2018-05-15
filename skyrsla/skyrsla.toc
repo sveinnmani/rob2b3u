@@ -7,4 +7,6 @@
 \contentsline {section}{\numberline {6}Lokaor\IeC {\dh }}{5}
 \contentsline {section}{\numberline {7}Heimildaskr\IeC {\'a}}{6}
 \contentsline {section}{\numberline {8}Vi\IeC {\dh }auki}{7}
-\contentsline {subsection}{\numberline {8.1}K\IeC {\'o}\IeC {\dh }i Arduino}{7}
+\contentsline {subsection}{\numberline {8.1}Dagb\IeC {\'o}k Sveinn}{7}
+\contentsline {subsection}{\numberline {8.2}Dagb\IeC {\'o}k Vytautas}{8}
+\contentsline {subsection}{\numberline {8.3}K\IeC {\'o}\IeC {\dh }i Arduino}{9}

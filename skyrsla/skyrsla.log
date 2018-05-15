@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.19)  11 MAY 2018 11:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.19)  15 MAY 2018 08:31
 entering extended mode
 **./skyrsla.tex
 (skyrsla.tex
@@ -624,6 +624,9 @@ Package pdftex.def Info: img/tskoli.png  used on input line 27. on input line 2
 Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 2
 7.
  [2] (intro.tex
+
+LaTeX Warning: Citation `ablebits' on page 3 undefined on input line 12.
+
 <img/husmynd.jpg, id=18, 752.8125pt x 501.875pt>
 File: img/husmynd.jpg Graphic file (type jpg)
 <use img/husmynd.jpg>
@@ -661,44 +664,55 @@ Package pdftex.def Info: img/flowchart.png  used on input line 11. on input lin
 e 11.
 Package pdftex.def Info: Requested size: 99.67314pt x 88.2303pt on input line 1
 1.
-) (testing.tex
-
-LaTeX Warning: Citation `pi2015raspberry' on page 5 undefined on input line 2.
-
-) (conclution.tex)
+) (testing.tex) (conclution.tex)
 File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png  used on input line 35. on input line 3
 5.
 Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 3
 5.
- [5 <./img/flowchart.png>] (references.tex) (skyrsla.bbl)
+ [5 <./img/flowchart.png>]
+(references.tex) (skyrsla.bbl)
 File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png  used on input line 39. on input line 3
 9.
 Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 3
 9.
-
-[6] (appendix.tex (dagbok.txt)
+ [6] (appendix.tex (dagbok_S.txt
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 38. on input line 3
+8.
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 3
+8.
+ [7])
+(dagbok_V.txt
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png  used on input line 42. on input line 4
+2.
+Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 4
+2.
+ [8])
 ("C:\Users\2512982709\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstl
 ang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) (code/main.py
 File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png  used on input line 37. on input line 3
-7.
+Package pdftex.def Info: img/tskoli.png  used on input line 34. on input line 3
+4.
 Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 3
-7.
- [7]
+4.
+ [9]
 File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png  used on input line 82. on input line 8
-2.
+Package pdftex.def Info: img/tskoli.png  used on input line 80. on input line 8
+0.
 Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 8
-2.
- [8]
+0.
+ [10]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 110.
 
 
@@ -715,30 +729,30 @@ Overfull \hbox (68.90208pt too wide) in paragraph at lines 119--120
 
 File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png  used on input line 128. on input line 
-128.
+Package pdftex.def Info: img/tskoli.png  used on input line 126. on input line 
+126.
 Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 1
-28.
-[9]))
+26.
+[11]))
 File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png  used on input line 41. on input line 4
 1.
 Package pdftex.def Info: Requested size: 85.35826pt x 20.9319pt on input line 4
 1.
- [10] (skyrsla.aux)
+ [12] (skyrsla.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5292 strings out of 493312
- 69442 string characters out of 3127652
- 276049 words of memory out of 3000000
- 8729 multiletter control sequences out of 15000+200000
+ 5297 strings out of 493312
+ 69533 string characters out of 3127652
+ 277089 words of memory out of 3000000
+ 8731 multiletter control sequences out of 15000+200000
  12452 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,43p,858b,1971s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,43p,824b,1973s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dp
 i600\ecbx1200.pk> <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \jknappen\ec\dpi600\ecti1000.pk> <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\
@@ -749,9 +763,9 @@ C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ecrm1200.pk> <C:\Users\2512982709\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
 appen\ec\dpi600\ecrm1728.pk><C:/Users/2512982709/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on skyrsla.pdf (10 pages, 469390 bytes).
+Output written on skyrsla.pdf (12 pages, 479184 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
+ 371 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

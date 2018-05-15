@@ -1,0 +1,36 @@
+from bottle import route, run, template
+from motor2 import *
+@route('/')
+def index():
+        return template('/var/www/html/index.php')
+@route('/forward', method=['POST'])
+def tralala():
+	x = MotorKeyra()
+	x.forward()
+	return templade('/var/www/html/index.php')
+@route('/backward', method=['POST'])
+def tralala():
+	x = MotorKeyra()
+	x.backward()
+	return templade('/var/www/html/index.php')
+@route('/left', method=['POST'])
+def tralala():
+	x = MotorKeyra()
+	x.left()
+	return templade('/var/www/html/index.php')
+@route('/right', method=['POST'])
+def tralala():
+	x = MotorKeyra()
+	x.right()
+	return templade('/var/www/html/index.php')
+@route('/right', method=['POST'])
+def tralala():
+	x = MotorKeyra()
+	x.right()
+	return templade('/var/www/html/index.php')
+@route('/stop', method=['POST'])
+def tralala():
+	x = MotorKeyra()
+	x.stop()
+	return templade('/var/www/html/index.php')
+run(host='0.0.0.0', port=8000)

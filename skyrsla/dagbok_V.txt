@@ -1,0 +1,51 @@
+﻿"09/01/2018
+Kynntist námsefni áfangans og fengum rasperry pi tölvuna í hendurnar og fengum led ljós
+til að tengjast henni.
+
+12/01/2018
+Tengdum Sonar sensor og servo við rasberry pi og fengum allt til að virka saman.
+
+16/01/2018
+Fengum upplýsingar um verkefni áfangans og ákváðum hvað við ætlum að gera.
+
+19/01/2018
+Bjó til verkefnalýsingu, skýringarmynd af verkefninu og sauðakóða fyrir grunnverkefnið.
+
+23/01/2018
+Byrjuðum að plana og byggja skelina á vélmenninu
+
+26/01/2018
+Kláraði fulla verkefnalýsingu
+
+06/02/2018
+Héldum áfram að byggja skelina
+
+09/02/2018
+Kláruðum að byggja skelina og ég fór í það að klára gantt ritið
+
+13/02/2018
+Kláraði gantt ritið og við tengdum og fengum myndavélina til að virka
+
+02/03/2018
+Löguðum til tölvuna þannig að hún virki og kláruðum að byggja vélmennið
+
+06/03/2018
+Skoðaði möguleika fyrir stream og ákvað að nota motion
+
+09/03/2018
+Setti upp streamið þannig við fáum mynd
+
+06/04/2018
+Lagaði til streamið þannig það keyrir betur
+
+10/04/2018
+Setti streamið upp þannig það keyri við startup og tengist rétt við vefsíðuna
+
+13/04/2018
+Skoðuðum hvernig við fáum takkana á vefsíðunni til að virka og löguðum til kóðann til að láta vélmennið keyra
+
+20/04/2018
+Breytti yfir á python webserver backend client
+
+24/04/2018
+Lagaði til serverinn og setti allt upp þannig að takkanir virki almennilega og að réttu hlutanir ræsists við bootup"

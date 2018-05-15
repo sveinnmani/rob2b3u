@@ -1,0 +1,47 @@
+﻿9.1.18 og 12.1.18
+Fengum Raspberry pi í þessari viku og leystum fyrsta æfingaverkefnið þar sem við tendum 
+led peru, servo og ultrasonic sensor við RPi með breadboard. 
+
+16.1.18 og 19.1.18
+Við skrifuðum niður nokkrar hugmyndir fyrir verkefnið. Við byrjuðum á verkefnalýsingu og gerðum sauðakóðann
+þegar við vorum búnnir að velja verkefni. Settum upp TexWorks svo við þurfum ekki að pæla í því seinna.
+
+23.1.18 og 26.1.18
+Við völdum parta fyrir vélmennið, ultrasonic sensor, tvo mótora frá Vex, byggingarefni frá Vex. Byrjuðum einnig að setja saman vélmennið 
+sjálft. Reyndum að átta okkur á því hvernigvið getum fengið gildi frá shaft encoder svo við getum notað hann fyrir vélmennið.
+
+30.1.18 og 2.2.18
+Náði að koma shaft encoder í lag. Vorum líka að vinna í því að setja vélmennið saman.
+
+6.2.18 og 9.2.18
+Í þessari viku vorum við að mest að klára samsetninguna á vélmenninu. Byrjaði á því að keyra mótorana. 
+
+13.2.18 og 16.2.18
+Kláruðum grunnsamsetninguna á vélmenninu. Náði að keyra báða mótorana. Við erum byrjaðir á því að bæta myndavél við vélmennið. Reyndum ad leysa vesenið med raspberry pi-inn þar sem hann var að ofhitna við ekkert álag.
+
+20.2.18 og 23.2.18
+Setti upp webserver á pi-inn til þess að geta stjórnað honum gegnum netið. Nota Apache fyrir það og ætla að nota php með því. Er buinn ad atti mig a thvi hvernig madur stjornar gpio pinnunum af piinum gegnum php vefsidu.
+
+27.2.18 og 2.3.18
+Bættum við bita fremst á vélemennið til að festa myndavélina og sonar sensorinn.
+
+6.3.18 og 9.3.18
+Byrjuðum á því að tengja saman alla partana við breadboard og reyndum að fá vélmennið til þess að keyra.
+
+13.3.18 og 16.3.18
+Lærði hvernig h-bridge virkar. Reyndi að fá encoderinn til þess að virka, þarf að gera það í næstu viku.
+
+10.4.18 og 13.4.18
+Reyna að ná stýringu á vélmenninu gegnum vefinn okkar. Einnig að finna útúr því hvernig hægt er að keyra python skrár gegnum vefinn.
+
+24.4.18
+Er farinn ad vinna i kodanum sem laetur velmennid keyra sjalfkrafa thegar ytt er a takka a sidunni.
+
+17.4.18
+Fékk php skjal til að keyra shell command í gegnum terminal en það virkar ekki gegnum vefinn okkar.
+
+4.5.18
+Var að vinna í kóðanum svo vélmennið gæti keyrt áfram án þess að keyra á veggi.
+
+8.5.18 og 11.5.18
+Pi tölvan bilaði. Drap alltaf á sér eftir smá tíma. Aftengdum vélmennið of fengum nýjann. Erum að klára skýrsluna. 
